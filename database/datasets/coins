@@ -1,201 +1,201 @@
-id,rank,name,symbol,main_link,historical_link,price,overal_market_cap,volume_24_hour,circulating_supply
-1,1,Bitcoin,BTC,https://coinmarketcap.com/currencies/bitcoin/,https://coinmarketcap.com/currencies/bitcoin/historical-data/,26047.67,507090156466.71,12406045117.51,19467775
-2,2,Ethereum,ETH,https://coinmarketcap.com/currencies/ethereum/,https://coinmarketcap.com/currencies/ethereum/historical-data/,1652.94,198709982386.16,5396997822.81,120216444
-3,3,Tether USDt,USDT,https://coinmarketcap.com/currencies/tether/,https://coinmarketcap.com/currencies/tether/historical-data/,0.9995,82807252662.66,19999153581.65,82849133566
-4,4,BNB,BNB,https://coinmarketcap.com/currencies/bnb/,https://coinmarketcap.com/currencies/bnb/historical-data/,218.33,33590478887.3,423891091.63,153851122
-5,5,XRP,XRP,https://coinmarketcap.com/currencies/xrp/,https://coinmarketcap.com/currencies/xrp/historical-data/,0.5262,27845876512.16,1067427241.27,52914193551
-6,6,USD Coin,USDC,https://coinmarketcap.com/currencies/usd-coin/,https://coinmarketcap.com/currencies/usd-coin/historical-data/,1.0001,25919090832.39,2870155394.25,25916750966
-7,7,Cardano,ADA,https://coinmarketcap.com/currencies/cardano/,https://coinmarketcap.com/currencies/cardano/historical-data/,0.2611,9152956074.04,226745371.9,35058106675
-8,8,Dogecoin,DOGE,https://coinmarketcap.com/currencies/dogecoin/,https://coinmarketcap.com/currencies/dogecoin/historical-data/,0.06308,8878470592.73,202977283.44,140739636384
-9,9,Solana,SOL,https://coinmarketcap.com/currencies/solana/,https://coinmarketcap.com/currencies/solana/historical-data/,20.39,8318053764.65,278312420.21,407893307
-10,10,TRON,TRX,https://coinmarketcap.com/currencies/tron/,https://coinmarketcap.com/currencies/tron/historical-data/,0.0772,6900049920.05,174447305.16,89376407310
-11,11,Polkadot,DOT,https://coinmarketcap.com/currencies/polkadot-new/,https://coinmarketcap.com/currencies/polkadot-new/historical-data/,4.4865,5458384818.16,94505373.46,1216636775
-12,12,Dai,DAI,https://coinmarketcap.com/currencies/multi-collateral-dai/,https://coinmarketcap.com/currencies/multi-collateral-dai/historical-data/,0.9999,5347822079.04,75095538.95,5347888596
-13,13,Polygon,MATIC,https://coinmarketcap.com/currencies/polygon/,https://coinmarketcap.com/currencies/polygon/historical-data/,0.5462,5090241628.57,274560763.21,9319469069
-14,14,Toncoin,TON,https://coinmarketcap.com/currencies/toncoin/,https://coinmarketcap.com/currencies/toncoin/historical-data/,1.427,4897461704.62,29643403.69,3431892088
-15,15,Litecoin,LTC,https://coinmarketcap.com/currencies/litecoin/,https://coinmarketcap.com/currencies/litecoin/historical-data/,65.11,4790996215.75,268487447.25,73580945
-16,16,Shiba Inu,SHIB,https://coinmarketcap.com/currencies/shiba-inu/,https://coinmarketcap.com/currencies/shiba-inu/historical-data/,8.14e-06,4796905977.53,139371203.42,589346914631298
-17,17,Wrapped Bitcoin,WBTC,https://coinmarketcap.com/currencies/wrapped-bitcoin/,https://coinmarketcap.com/currencies/wrapped-bitcoin/historical-data/,26053.6,4243855522.84,76364182.11,162889
-18,18,Bitcoin Cash,BCH,https://coinmarketcap.com/currencies/bitcoin-cash/,https://coinmarketcap.com/currencies/bitcoin-cash/historical-data/,192.05,3742379987.32,139896933.21,19486281
-19,19,UNUS SED LEO,LEO,https://coinmarketcap.com/currencies/unus-sed-leo/,https://coinmarketcap.com/currencies/unus-sed-leo/historical-data/,3.8364,3565997081.68,537932.26,929525858
-20,20,Avalanche,AVAX,https://coinmarketcap.com/currencies/avalanche/,https://coinmarketcap.com/currencies/avalanche/historical-data/,10.05,3459082269.77,120285068.43,344083482
-21,21,Stellar,XLM,https://coinmarketcap.com/currencies/stellar/,https://coinmarketcap.com/currencies/stellar/historical-data/,0.1239,3395969321.15,89277309.03,27417916736
-22,22,Chainlink,LINK,https://coinmarketcap.com/currencies/chainlink/,https://coinmarketcap.com/currencies/chainlink/historical-data/,6.0074,3232593123.9,161052214.6,538099970
-23,23,Binance USD,BUSD,https://coinmarketcap.com/currencies/binance-usd/,https://coinmarketcap.com/currencies/binance-usd/historical-data/,1.0003,3153614715.61,1079878217.44,3152534685
-24,24,TrueUSD,TUSD,https://coinmarketcap.com/currencies/trueusd/,https://coinmarketcap.com/currencies/trueusd/historical-data/,0.9996,2906332785.19,1733339380.82,2907448856
-25,25,Uniswap,UNI,https://coinmarketcap.com/currencies/uniswap/,https://coinmarketcap.com/currencies/uniswap/historical-data/,4.5498,2627527906.85,87112537.96,577501031
-26,26,Monero,XMR,https://coinmarketcap.com/currencies/monero/,https://coinmarketcap.com/currencies/monero/historical-data/,139.9,2563461708.97,62511771.52,18323142
-27,27,OKB,OKB,https://coinmarketcap.com/currencies/okb/,https://coinmarketcap.com/currencies/okb/historical-data/,42.67,2560000113.73,1728990.68,60000000
-28,28,Cosmos,ATOM,https://coinmarketcap.com/currencies/cosmos/,https://coinmarketcap.com/currencies/cosmos/historical-data/,7.2443,2510937180.9,87429486.09,346608690
-29,29,Ethereum Classic,ETC,https://coinmarketcap.com/currencies/ethereum-classic/,https://coinmarketcap.com/currencies/ethereum-classic/historical-data/,16.0,2282733161.55,75525218.61,142692668
-30,30,Hedera,HBAR,https://coinmarketcap.com/currencies/hedera/,https://coinmarketcap.com/currencies/hedera/historical-data/,0.05886,1947264958.07,82946495.9,33083237217
-31,31,Internet Computer,ICP,https://coinmarketcap.com/currencies/internet-computer/,https://coinmarketcap.com/currencies/internet-computer/historical-data/,3.5101,1551766082.28,16614482.5,442084120
-32,32,Filecoin,FIL,https://coinmarketcap.com/currencies/filecoin/,https://coinmarketcap.com/currencies/filecoin/historical-data/,3.2352,1434049850.09,96585090.02,443258347
-33,33,Mantle,MNT,https://coinmarketcap.com/currencies/mantle/,https://coinmarketcap.com/currencies/mantle/historical-data/,0.4296,1389503504.21,12277953.46,3234382071
-34,34,Lido DAO,LDO,https://coinmarketcap.com/currencies/lido-dao/,https://coinmarketcap.com/currencies/lido-dao/historical-data/,1.558,1383021589.59,67800848.27,887699772
-35,35,Cronos,CRO,https://coinmarketcap.com/currencies/cronos/,https://coinmarketcap.com/currencies/cronos/historical-data/,0.05123,1294165405.57,6005789.23,25263013692
-36,36,Aptos,APT,https://coinmarketcap.com/currencies/aptos/,https://coinmarketcap.com/currencies/aptos/historical-data/,5.6911,1293223853.59,88396875.79,227235133
-37,37,Quant,QNT,https://coinmarketcap.com/currencies/quant/,https://coinmarketcap.com/currencies/quant/historical-data/,101.43,1224514289.72,12974257.69,12072738
-38,38,Arbitrum,ARB,https://coinmarketcap.com/currencies/arbitrum/,https://coinmarketcap.com/currencies/arbitrum/historical-data/,0.948,1208723808.64,152807293.97,1275000000
-39,39,VeChain,VET,https://coinmarketcap.com/currencies/vechain/,https://coinmarketcap.com/currencies/vechain/historical-data/,0.01605,1167316310.31,23309138.0,72714516834
-40,40,NEAR Protocol,NEAR,https://coinmarketcap.com/currencies/near-protocol/,https://coinmarketcap.com/currencies/near-protocol/historical-data/,1.1897,1120314403.12,47022915.54,941671517
-41,41,Optimism,OP,https://coinmarketcap.com/currencies/optimism-ethereum/,https://coinmarketcap.com/currencies/optimism-ethereum/historical-data/,1.4688,1052692332.09,152907326.63,716708907
-42,42,Maker,MKR,https://coinmarketcap.com/currencies/maker/,https://coinmarketcap.com/currencies/maker/historical-data/,1013.17,990504480.61,64448513.14,977631
-43,43,Aave,AAVE,https://coinmarketcap.com/currencies/aave/,https://coinmarketcap.com/currencies/aave/historical-data/,56.89,826232881.8,68297790.82,14524340
-44,44,The Graph,GRT,https://coinmarketcap.com/currencies/the-graph/,https://coinmarketcap.com/currencies/the-graph/historical-data/,0.08914,816867738.33,36019315.03,9164031528
-45,45,Algorand,ALGO,https://coinmarketcap.com/currencies/algorand/,https://coinmarketcap.com/currencies/algorand/historical-data/,0.09693,758703967.47,22762098.11,7827171346
-46,46,XDC Network,XDC,https://coinmarketcap.com/currencies/xdc-network/,https://coinmarketcap.com/currencies/xdc-network/historical-data/,0.05291,733226989.17,10528676.98,13858710886
-47,47,USDD,USDD,https://coinmarketcap.com/currencies/usdd/,https://coinmarketcap.com/currencies/usdd/historical-data/,0.9977,723638753.88,24074045.57,725332035
-48,48,Axie Infinity,AXS,https://coinmarketcap.com/currencies/axie-infinity/,https://coinmarketcap.com/currencies/axie-infinity/historical-data/,4.8546,683752252.2,16559944.78,140847467
-49,49,The Sandbox,SAND,https://coinmarketcap.com/currencies/the-sandbox/,https://coinmarketcap.com/currencies/the-sandbox/historical-data/,0.3229,666749800.85,49328785.0,2064931926
-50,50,Tezos,XTZ,https://coinmarketcap.com/currencies/tezos/,https://coinmarketcap.com/currencies/tezos/historical-data/,0.6967,661943435.76,13871033.93,950170580
-51,51,Stacks,STX,https://coinmarketcap.com/currencies/stacks/,https://coinmarketcap.com/currencies/stacks/historical-data/,0.4706,660397460.79,13463491.1,1403323335
-52,52,MultiversX,EGLD,https://coinmarketcap.com/currencies/multiversx-egld/,https://coinmarketcap.com/currencies/multiversx-egld/historical-data/,25.32,655307121.86,15831684.24,25879171
-53,53,EOS,EOS,https://coinmarketcap.com/currencies/eos/,https://coinmarketcap.com/currencies/eos/historical-data/,0.5867,645857673.66,87931284.06,1100753047
-54,54,Theta Network,THETA,https://coinmarketcap.com/currencies/theta-network/,https://coinmarketcap.com/currencies/theta-network/historical-data/,0.6357,635749025.28,9643726.7,1000000000
-55,55,Immutable,IMX,https://coinmarketcap.com/currencies/immutable-x/,https://coinmarketcap.com/currencies/immutable-x/historical-data/,0.5627,632186784.21,35319141.27,1123390887
-56,56,Injective,INJ,https://coinmarketcap.com/currencies/injective/,https://coinmarketcap.com/currencies/injective/historical-data/,7.268,608735271.0,29903353.75,83755556
-57,57,Fantom,FTM,https://coinmarketcap.com/currencies/fantom/,https://coinmarketcap.com/currencies/fantom/historical-data/,0.2077,582258459.46,29980644.43,2802691357
-58,58,Bitcoin SV,BSV,https://coinmarketcap.com/currencies/bitcoin-sv/,https://coinmarketcap.com/currencies/bitcoin-sv/historical-data/,30.07,579354449.45,16935868.42,19266077
-59,59,Decentraland,MANA,https://coinmarketcap.com/currencies/decentraland/,https://coinmarketcap.com/currencies/decentraland/historical-data/,0.3054,578069048.78,44607866.97,1893095371
-60,60,Synthetix,SNX,https://coinmarketcap.com/currencies/synthetix/,https://coinmarketcap.com/currencies/synthetix/historical-data/,2.0624,555024528.45,32694877.37,269121362
-61,61,Render,RNDR,https://coinmarketcap.com/currencies/render/,https://coinmarketcap.com/currencies/render/historical-data/,1.474,548179027.6,25652189.2,371908453
-62,62,ApeCoin,APE,https://coinmarketcap.com/currencies/apecoin-ape/,https://coinmarketcap.com/currencies/apecoin-ape/historical-data/,1.4461,533029166.23,48122107.87,368593750
-63,63,Pax Dollar,USDP,https://coinmarketcap.com/currencies/paxos-standard/,https://coinmarketcap.com/currencies/paxos-standard/historical-data/,0.9996,509987125.72,15049818.82,510215145
-64,64,Neo,NEO,https://coinmarketcap.com/currencies/neo/,https://coinmarketcap.com/currencies/neo/historical-data/,7.1754,506141678.92,21426170.45,70538831
-65,65,THORChain,RUNE,https://coinmarketcap.com/currencies/thorchain/,https://coinmarketcap.com/currencies/thorchain/historical-data/,1.4807,504043588.86,78363548.78,340415651
-66,66,Kava,KAVA,https://coinmarketcap.com/currencies/kava/,https://coinmarketcap.com/currencies/kava/historical-data/,0.6834,491529841.24,10826058.77,719219914
-67,67,PAX Gold,PAXG,https://coinmarketcap.com/currencies/pax-gold/,https://coinmarketcap.com/currencies/pax-gold/historical-data/,1902.92,474111896.22,4164837.42,249150
-68,68,Tether Gold,XAUt,https://coinmarketcap.com/currencies/tether-gold/,https://coinmarketcap.com/currencies/tether-gold/historical-data/,1917.13,472618561.86,1043454.41,246524
-69,69,eCash,XEC,https://coinmarketcap.com/currencies/ecash/,https://coinmarketcap.com/currencies/ecash/historical-data/,2.403e-05,468092957.09,5883170.07,19480448423093
-70,70,Flow,FLOW,https://coinmarketcap.com/currencies/flow/,https://coinmarketcap.com/currencies/flow/historical-data/,0.4504,466662055.23,24023463.65,1036200000
-71,71,Rocket Pool,RPL,https://coinmarketcap.com/currencies/rocket-pool/,https://coinmarketcap.com/currencies/rocket-pool/historical-data/,23.54,461816944.96,3631508.28,19620795
-72,72,Chiliz,CHZ,https://coinmarketcap.com/currencies/chiliz/,https://coinmarketcap.com/currencies/chiliz/historical-data/,0.06301,449072864.89,21821080.48,7126880905
-73,73,Gala,GALA,https://coinmarketcap.com/currencies/gala/,https://coinmarketcap.com/currencies/gala/historical-data/,0.01931,447781599.08,39620171.17,23189941688
-74,74,Klaytn,KLAY,https://coinmarketcap.com/currencies/klaytn/,https://coinmarketcap.com/currencies/klaytn/historical-data/,0.1386,442419658.82,5989536.21,3192476041
-75,75,KuCoin Token,KCS,https://coinmarketcap.com/currencies/kucoin-token/,https://coinmarketcap.com/currencies/kucoin-token/historical-data/,4.5538,440503374.19,1545478.38,96732986
-76,76,Frax Share,FXS,https://coinmarketcap.com/currencies/frax-share/,https://coinmarketcap.com/currencies/frax-share/historical-data/,5.8141,426293235.96,17490089.18,73320949
-77,77,IOTA,MIOTA,https://coinmarketcap.com/currencies/iota/,https://coinmarketcap.com/currencies/iota/historical-data/,0.1468,407906646.18,3669231.04,2779530283
-78,78,Zcash,ZEC,https://coinmarketcap.com/currencies/zcash/,https://coinmarketcap.com/currencies/zcash/historical-data/,25.02,408533685.87,43281382.96,16328269
-79,79,Casper,CSPR,https://coinmarketcap.com/currencies/casper/,https://coinmarketcap.com/currencies/casper/historical-data/,0.03577,403210792.05,3053239.75,11272187750
-80,80,Sui,SUI,https://coinmarketcap.com/currencies/sui/,https://coinmarketcap.com/currencies/sui/historical-data/,0.5562,402224441.84,162888635.99,723162190
-81,81,Huobi Token,HT,https://coinmarketcap.com/currencies/huobi-token/,https://coinmarketcap.com/currencies/huobi-token/historical-data/,2.4044,390067399.09,12908659.91,162233844
-82,82,BitTorrent(New),BTT,https://coinmarketcap.com/currencies/bittorrent-new/,https://coinmarketcap.com/currencies/bittorrent-new/historical-data/,4.1e-07,388737453.15,16409952.52,951421714286000
-83,83,Curve DAO Token,CRV,https://coinmarketcap.com/currencies/curve-dao-token/,https://coinmarketcap.com/currencies/curve-dao-token/historical-data/,0.4545,388563836.48,40486695.49,854977268
-84,84,Conflux,CFX,https://coinmarketcap.com/currencies/conflux-network/,https://coinmarketcap.com/currencies/conflux-network/historical-data/,0.1201,380666189.73,21749460.65,3169770493
-85,85,Mina,MINA,https://coinmarketcap.com/currencies/mina/,https://coinmarketcap.com/currencies/mina/historical-data/,0.3943,377292111.77,5883656.38,956977200
-86,86,GateToken,GT,https://coinmarketcap.com/currencies/gatetoken/,https://coinmarketcap.com/currencies/gatetoken/historical-data/,3.8843,373051493.71,709656.5,96041900
-87,87,Terra Classic,LUNC,https://coinmarketcap.com/currencies/terra-luna/,https://coinmarketcap.com/currencies/terra-luna/historical-data/,6.311e-05,367008700.46,13407651.68,5815651920177
-88,88,Trust Wallet Token,TWT,https://coinmarketcap.com/currencies/trust-wallet-token/,https://coinmarketcap.com/currencies/trust-wallet-token/historical-data/,0.8451,352099983.62,6300668.69,416649900
-89,89,Pepe,PEPE,https://coinmarketcap.com/currencies/pepe/,https://coinmarketcap.com/currencies/pepe/historical-data/,8.8e-07,345799872.92,275837423.37,391790000000000
-90,90,dYdX,DYDX,https://coinmarketcap.com/currencies/dydx/,https://coinmarketcap.com/currencies/dydx/historical-data/,2.1674,338669192.01,55680344.64,156256174
-91,91,Compound,COMP,https://coinmarketcap.com/currencies/compound/,https://coinmarketcap.com/currencies/compound/historical-data/,42.66,333203473.32,27745870.48,7811579
-92,92,Nexo,NEXO,https://coinmarketcap.com/currencies/nexo/,https://coinmarketcap.com/currencies/nexo/historical-data/,0.5921,331597132.01,2646081.13,560000011
-93,93,GMX,GMX,https://coinmarketcap.com/currencies/gmx/,https://coinmarketcap.com/currencies/gmx/historical-data/,36.72,329307564.16,10808744.78,8968871
-94,94,Bone ShibaSwap,BONE,https://coinmarketcap.com/currencies/bone-shibaswap/,https://coinmarketcap.com/currencies/bone-shibaswap/historical-data/,1.4097,324120084.27,12467088.15,229923351
-95,95,APENFT,NFT,https://coinmarketcap.com/currencies/apenft/,https://coinmarketcap.com/currencies/apenft/historical-data/,3.2e-07,319183570.45,20801039.33,990105683025577
-96,96,WOO Network,WOO,https://coinmarketcap.com/currencies/wootrade/,https://coinmarketcap.com/currencies/wootrade/historical-data/,0.1828,317281942.53,8364316.0,1735838573
-97,97,Gemini Dollar,GUSD,https://coinmarketcap.com/currencies/gemini-dollar/,https://coinmarketcap.com/currencies/gemini-dollar/historical-data/,0.9977,310553103.67,665745.36,311274154
-98,98,Flare,FLR,https://coinmarketcap.com/currencies/flare/,https://coinmarketcap.com/currencies/flare/historical-data/,0.0136,310309647.18,4926724.29,22817003626
-99,99,Astar,ASTR,https://coinmarketcap.com/currencies/astar/,https://coinmarketcap.com/currencies/astar/historical-data/,0.06444,304464153.09,16871189.08,4724937882
-100,100,Dash,DASH,https://coinmarketcap.com/currencies/dash/,https://coinmarketcap.com/currencies/dash/historical-data/,25.56,292018552.81,42382421.01,11422898
-101,101,Akash Network,AKT,https://coinmarketcap.com/currencies/akash-network/,https://coinmarketcap.com/currencies/akash-network/historical-data/,1.3118,285205564.35,3635942.35,217416538
-102,102,PancakeSwap,CAKE,https://coinmarketcap.com/currencies/pancakeswap/,https://coinmarketcap.com/currencies/pancakeswap/historical-data/,1.2778,283057029.83,13555466.11,221512943
-103,103,MX TOKEN,MX,https://coinmarketcap.com/currencies/mx-token/,https://coinmarketcap.com/currencies/mx-token/historical-data/,2.7642,278385921.23,2773749.15,100709834
-104,104,Arweave,AR,https://coinmarketcap.com/currencies/arweave/,https://coinmarketcap.com/currencies/arweave/historical-data/,4.1741,273215225.34,22890703.54,65454185
-105,105,Zilliqa,ZIL,https://coinmarketcap.com/currencies/zilliqa/,https://coinmarketcap.com/currencies/zilliqa/historical-data/,0.01678,266192636.38,9289423.68,15867699447
-106,106,Oasis Network,ROSE,https://coinmarketcap.com/currencies/oasis-network/,https://coinmarketcap.com/currencies/oasis-network/historical-data/,0.04016,262758293.88,8488734.89,6542267493
-107,107,Gnosis,GNO,https://coinmarketcap.com/currencies/gnosis-gno/,https://coinmarketcap.com/currencies/gnosis-gno/historical-data/,100.37,259916757.02,9010761.33,2589588
-108,108,Basic Attention Token,BAT,https://coinmarketcap.com/currencies/basic-attention-token/,https://coinmarketcap.com/currencies/basic-attention-token/historical-data/,0.1741,259390286.81,11652074.4,1489950992
-109,109,SafePal,SFP,https://coinmarketcap.com/currencies/safepal/,https://coinmarketcap.com/currencies/safepal/historical-data/,0.5169,258458487.51,18332639.01,500000000
-110,110,1inch Network,1INCH,https://coinmarketcap.com/currencies/1inch/,https://coinmarketcap.com/currencies/1inch/historical-data/,0.2466,254142214.04,14697983.67,1030493101
-111,111,Sei,SEI,https://coinmarketcap.com/currencies/sei/,https://coinmarketcap.com/currencies/sei/historical-data/,0.1392,250514511.16,76796276.75,1800000000
-112,112,Chia,XCH,https://coinmarketcap.com/currencies/chia-network/,https://coinmarketcap.com/currencies/chia-network/historical-data/,30.15,249594139.73,2493014.38,8278012
-113,113,Loopring,LRC,https://coinmarketcap.com/currencies/loopring/,https://coinmarketcap.com/currencies/loopring/historical-data/,0.1826,243120792.45,7950107.13,1331547705
-114,114,Enjin Coin,ENJ,https://coinmarketcap.com/currencies/enjin-coin/,https://coinmarketcap.com/currencies/enjin-coin/historical-data/,0.2399,239879871.02,9047904.29,1000000000
-115,115,Helium,HNT,https://coinmarketcap.com/currencies/helium/,https://coinmarketcap.com/currencies/helium/historical-data/,1.6214,233371411.7,1847724.85,143934821
-116,116,Qtum,QTUM,https://coinmarketcap.com/currencies/qtum/,https://coinmarketcap.com/currencies/qtum/historical-data/,2.1995,230408357.9,21824327.41,104755842
-117,117,Ethereum Name Service,ENS,https://coinmarketcap.com/currencies/ethereum-name-service/,https://coinmarketcap.com/currencies/ethereum-name-service/historical-data/,7.7697,230123909.42,7249456.61,29618123
-118,118,NEM,XEM,https://coinmarketcap.com/currencies/nem/,https://coinmarketcap.com/currencies/nem/historical-data/,0.0252,226756776.59,3637894.71,8999999999
-119,119,Bitcoin Gold,BTG,https://coinmarketcap.com/currencies/bitcoin-gold/,https://coinmarketcap.com/currencies/bitcoin-gold/historical-data/,12.71,222687909.02,1816441.53,17513924
-120,120,SingularityNET,AGIX,https://coinmarketcap.com/currencies/singularitynet/,https://coinmarketcap.com/currencies/singularitynet/historical-data/,0.1816,223803293.06,25677761.3,1232484306
-121,121,Convex Finance,CVX,https://coinmarketcap.com/currencies/convex-finance/,https://coinmarketcap.com/currencies/convex-finance/historical-data/,2.7635,220872673.57,4799292.5,79924699
-122,122,Mask Network,MASK,https://coinmarketcap.com/currencies/mask-network/,https://coinmarketcap.com/currencies/mask-network/historical-data/,2.6777,219868739.56,42448920.27,82112500
-123,123,Celo,CELO,https://coinmarketcap.com/currencies/celo/,https://coinmarketcap.com/currencies/celo/historical-data/,0.4277,217466370.64,5014092.56,508448178
-124,124,Theta Fuel,TFUEL,https://coinmarketcap.com/currencies/theta-fuel/,https://coinmarketcap.com/currencies/theta-fuel/historical-data/,0.03337,208826970.64,1666662.11,6257139017
-125,125,Decred,DCR,https://coinmarketcap.com/currencies/decred/,https://coinmarketcap.com/currencies/decred/historical-data/,13.27,204933768.36,3536271.7,15438317
-126,126,Ankr,ANKR,https://coinmarketcap.com/currencies/ankr/,https://coinmarketcap.com/currencies/ankr/historical-data/,0.01994,199419911.21,7104786.37,10000000000
-127,127,Ravencoin,RVN,https://coinmarketcap.com/currencies/ravencoin/,https://coinmarketcap.com/currencies/ravencoin/historical-data/,0.01533,197729455.63,4640807.83,12899485605
-128,128,Osmosis,OSMO,https://coinmarketcap.com/currencies/osmosis/,https://coinmarketcap.com/currencies/osmosis/historical-data/,0.398,196035048.71,4523572.86,492590761
-129,129,Ocean Protocol,OCEAN,https://coinmarketcap.com/currencies/ocean-protocol/,https://coinmarketcap.com/currencies/ocean-protocol/historical-data/,0.3191,195666273.8,21516327.25,613099141
-130,130,yearn.finance,YFI,https://coinmarketcap.com/currencies/yearn-finance/,https://coinmarketcap.com/currencies/yearn-finance/historical-data/,5743.31,189768242.79,32477076.44,33042
-131,131,Livepeer,LPT,https://coinmarketcap.com/currencies/livepeer/,https://coinmarketcap.com/currencies/livepeer/historical-data/,6.6052,190321657.35,46599344.67,28813799
-132,132,Holo,HOT,https://coinmarketcap.com/currencies/holo/,https://coinmarketcap.com/currencies/holo/historical-data/,0.001089,187223432.7,7232514.6,171989009269
-133,133,JUST,JST,https://coinmarketcap.com/currencies/just/,https://coinmarketcap.com/currencies/just/historical-data/,0.02075,184678157.7,26282427.87,8902080000
-134,134,STEPN,GMT,https://coinmarketcap.com/currencies/green-metaverse-token/,https://coinmarketcap.com/currencies/green-metaverse-token/historical-data/,0.168,184504985.59,14461809.97,1098267251
-135,135,Balancer,BAL,https://coinmarketcap.com/currencies/balancer/,https://coinmarketcap.com/currencies/balancer/historical-data/,3.4894,180660096.04,3011030.81,51773342
-136,136,aelf,ELF,https://coinmarketcap.com/currencies/aelf/,https://coinmarketcap.com/currencies/aelf/historical-data/,0.2885,179857321.91,6632930.42,623346585
-137,137,Fetch.ai,FET,https://coinmarketcap.com/currencies/fetch/,https://coinmarketcap.com/currencies/fetch/historical-data/,0.2172,177921029.73,40368780.24,819234391
-138,138,Blur,BLUR,https://coinmarketcap.com/currencies/blur-token/,https://coinmarketcap.com/currencies/blur-token/historical-data/,0.203,176961202.02,18453388.9,871655440
-139,139,Waves,WAVES,https://coinmarketcap.com/currencies/waves/,https://coinmarketcap.com/currencies/waves/historical-data/,1.5319,172051395.02,23640637.4,112314532
-140,140,Golem,GLM,https://coinmarketcap.com/currencies/golem-network-tokens/,https://coinmarketcap.com/currencies/golem-network-tokens/historical-data/,0.1708,170836389.63,2591329.18,1000000000
-141,141,Aragon,ANT,https://coinmarketcap.com/currencies/aragon/,https://coinmarketcap.com/currencies/aragon/historical-data/,4.2559,170362619.31,10616920.75,40029852
-142,142,Audius,AUDIO,https://coinmarketcap.com/currencies/audius/,https://coinmarketcap.com/currencies/audius/historical-data/,0.1509,166961966.86,3482186.35,1106620023
-143,143,JasmyCoin,JASMY,https://coinmarketcap.com/currencies/jasmy/,https://coinmarketcap.com/currencies/jasmy/historical-data/,0.003405,166499858.56,11715276.53,48899999999
-144,144,FLOKI,FLOKI,https://coinmarketcap.com/currencies/floki-inu/,https://coinmarketcap.com/currencies/floki-inu/historical-data/,1.756e-05,165691080.08,9666843.9,9435132149429
-145,145,Threshold,T,https://coinmarketcap.com/currencies/threshold/,https://coinmarketcap.com/currencies/threshold/historical-data/,0.01847,165422273.7,3437076.95,8956248017
-146,146,ICON,ICX,https://coinmarketcap.com/currencies/icon/,https://coinmarketcap.com/currencies/icon/historical-data/,0.1695,163669478.54,2467118.41,965535827
-147,147,Kusama,KSM,https://coinmarketcap.com/currencies/kusama/,https://coinmarketcap.com/currencies/kusama/historical-data/,19.11,161905219.88,7737748.95,8470098
-148,148,Siacoin,SC,https://coinmarketcap.com/currencies/siacoin/,https://coinmarketcap.com/currencies/siacoin/historical-data/,0.002925,160633077.22,3912022.89,54915892901
-149,149,Worldcoin,WLD,https://coinmarketcap.com/currencies/worldcoin-org/,https://coinmarketcap.com/currencies/worldcoin-org/historical-data/,1.2667,160653137.13,47733742.84,126831241
-150,150,Solar,SXP,https://coinmarketcap.com/currencies/sxp/,https://coinmarketcap.com/currencies/sxp/historical-data/,0.2687,154613096.98,9004557.54,575508682
-151,151,Terra,LUNA,https://coinmarketcap.com/currencies/terra-luna-v2/,https://coinmarketcap.com/currencies/terra-luna-v2/historical-data/,0.4205,150348361.81,17167568.4,357565717
-152,152,Illuvium,ILV,https://coinmarketcap.com/currencies/illuvium/,https://coinmarketcap.com/currencies/illuvium/historical-data/,42.35,149283070.48,3898537.54,3525321
-153,153,Hive,HIVE,https://coinmarketcap.com/currencies/hive-blockchain/,https://coinmarketcap.com/currencies/hive-blockchain/historical-data/,0.2929,146652257.01,2198305.99,500749243
-154,154,0x Protocol,ZRX,https://coinmarketcap.com/currencies/0x/,https://coinmarketcap.com/currencies/0x/historical-data/,0.1723,146000756.62,6772888.5,847496055
-155,155,EthereumPoW,ETHW,https://coinmarketcap.com/currencies/ethereum-pow/,https://coinmarketcap.com/currencies/ethereum-pow/historical-data/,1.327,143071341.96,3856402.04,107818999
-156,156,Ontology,ONT,https://coinmarketcap.com/currencies/ontology/,https://coinmarketcap.com/currencies/ontology/historical-data/,0.1629,142619354.22,4998608.02,875249524
-157,157,ssv.network,SSV,https://coinmarketcap.com/currencies/ssv-network/,https://coinmarketcap.com/currencies/ssv-network/historical-data/,14.22,142196532.56,4338715.71,10000000
-158,158,Moonbeam,GLMR,https://coinmarketcap.com/currencies/moonbeam/,https://coinmarketcap.com/currencies/moonbeam/historical-data/,0.195,139493172.17,1301095.9,715412253
-159,159,IOST,IOST,https://coinmarketcap.com/currencies/iostoken/,https://coinmarketcap.com/currencies/iostoken/historical-data/,0.00733,137136497.78,5983416.47,18708894189
-160,160,Band Protocol,BAND,https://coinmarketcap.com/currencies/band-protocol/,https://coinmarketcap.com/currencies/band-protocol/historical-data/,1.0306,137400379.15,4171444.95,133318127
-161,161,Biconomy,BICO,https://coinmarketcap.com/currencies/biconomy/,https://coinmarketcap.com/currencies/biconomy/historical-data/,0.2116,136916378.8,1792345.42,647110632
-162,162,Harmony,ONE,https://coinmarketcap.com/currencies/harmony/,https://coinmarketcap.com/currencies/harmony/historical-data/,0.0101,136032462.42,6617847.6,13471510624
-163,163,WAX,WAXP,https://coinmarketcap.com/currencies/wax/,https://coinmarketcap.com/currencies/wax/historical-data/,0.04074,136209901.34,1934672.45,3343754024
-164,164,SushiSwap,SUSHI,https://coinmarketcap.com/currencies/sushiswap/,https://coinmarketcap.com/currencies/sushiswap/historical-data/,0.5842,134943891.95,15341137.26,231003522
-165,165,Axelar,AXL,https://coinmarketcap.com/currencies/axelar/,https://coinmarketcap.com/currencies/axelar/historical-data/,0.3518,131589746.46,16779805.92,374004719
-166,166,IoTeX,IOTX,https://coinmarketcap.com/currencies/iotex/,https://coinmarketcap.com/currencies/iotex/historical-data/,0.01373,129646454.31,3448326.63,9444989892
-167,167,MAGIC,MAGIC,https://coinmarketcap.com/currencies/magic-token/,https://coinmarketcap.com/currencies/magic-token/historical-data/,0.5703,127036769.83,21525932.09,222744820
-168,168,Merit Circle,MC,https://coinmarketcap.com/currencies/merit-circle/,https://coinmarketcap.com/currencies/merit-circle/historical-data/,0.2942,125100518.6,6498874.03,425228837
-169,169,TerraClassicUSD,USTC,https://coinmarketcap.com/currencies/terrausd/,https://coinmarketcap.com/currencies/terrausd/historical-data/,0.01251,122466503.22,3570494.55,9789430796
-170,170,Kadena,KDA,https://coinmarketcap.com/currencies/kadena/,https://coinmarketcap.com/currencies/kadena/historical-data/,0.5041,122625935.14,12043500.87,243250679
-171,171,UniBot,UNIBOT,https://coinmarketcap.com/currencies/unibot-eth/,https://coinmarketcap.com/currencies/unibot-eth/historical-data/,119.14,119139451.35,13371929.55,1000000
-172,172,BORA,BORA,https://coinmarketcap.com/currencies/bora/,https://coinmarketcap.com/currencies/bora/historical-data/,0.1176,116876111.22,1078056.71,993750000
-173,173,Nervos Network,CKB,https://coinmarketcap.com/currencies/nervos-network/,https://coinmarketcap.com/currencies/nervos-network/historical-data/,0.002721,114178600.51,1195930.34,41962922918
-174,174,DigiByte,DGB,https://coinmarketcap.com/currencies/digibyte/,https://coinmarketcap.com/currencies/digibyte/historical-data/,0.006809,112051075.54,2133416.2,16457123721
-175,175,Stargate Finance,STG,https://coinmarketcap.com/currencies/stargate-finance/,https://coinmarketcap.com/currencies/stargate-finance/historical-data/,0.5446,111284549.85,9372284.74,204338417
-176,176,DAO Maker,DAO,https://coinmarketcap.com/currencies/dao-maker/,https://coinmarketcap.com/currencies/dao-maker/historical-data/,0.7579,109097574.63,2050386.87,143942531
-177,177,MobileCoin,MOB,https://coinmarketcap.com/currencies/mobilecoin/,https://coinmarketcap.com/currencies/mobilecoin/historical-data/,0.5473,106878901.86,855033.54,195286109
-178,178,Ribbon Finance,RBN,https://coinmarketcap.com/currencies/ribbon-finance/,https://coinmarketcap.com/currencies/ribbon-finance/historical-data/,0.1941,104229874.78,435345.29,537049175
-179,179,Core,CORE,https://coinmarketcap.com/currencies/core-dao/,https://coinmarketcap.com/currencies/core-dao/historical-data/,0.6673,103622716.9,4883820.52,155286272
-180,180,SKALE,SKL,https://coinmarketcap.com/currencies/skale-network/,https://coinmarketcap.com/currencies/skale-network/historical-data/,0.02214,103487619.04,5535973.77,4673852671
-181,181,Flux,FLUX,https://coinmarketcap.com/currencies/zel/,https://coinmarketcap.com/currencies/zel/historical-data/,0.3227,102255066.05,12542901.39,316888369
-182,182,UMA,UMA,https://coinmarketcap.com/currencies/uma/,https://coinmarketcap.com/currencies/uma/historical-data/,1.373,100999215.75,4397352.64,73560634
-183,183,Horizen,ZEN,https://coinmarketcap.com/currencies/horizen/,https://coinmarketcap.com/currencies/horizen/historical-data/,7.124,100103068.04,4518427.98,14051619
-184,184,Galxe,GAL,https://coinmarketcap.com/currencies/galxe/,https://coinmarketcap.com/currencies/galxe/historical-data/,1.1478,97438508.25,11389253.2,84890333
-185,185,Reserve Rights,RSR,https://coinmarketcap.com/currencies/reserve-rights/,https://coinmarketcap.com/currencies/reserve-rights/historical-data/,0.001899,96087678.25,2934968.45,50600000000
-186,186,TomoChain,TOMO,https://coinmarketcap.com/currencies/tomochain/,https://coinmarketcap.com/currencies/tomochain/historical-data/,1.0169,98470191.43,52610535.22,96830754
-187,187,Everscale,EVER,https://coinmarketcap.com/currencies/everscale/,https://coinmarketcap.com/currencies/everscale/historical-data/,0.05244,94519051.53,2537487.22,1802521252
-188,188,STP,STPT,https://coinmarketcap.com/currencies/standard-tokenization-protocol/,https://coinmarketcap.com/currencies/standard-tokenization-protocol/historical-data/,0.04524,87870432.95,4474869.51,1942420283
-189,189,Lisk,LSK,https://coinmarketcap.com/currencies/lisk/,https://coinmarketcap.com/currencies/lisk/historical-data/,0.7195,92740883.38,1294868.67,128900445
-190,190,Nano,XNO,https://coinmarketcap.com/currencies/nano/,https://coinmarketcap.com/currencies/nano/historical-data/,0.6947,92571025.39,25218288.55,133248297
-191,191,Storj,STORJ,https://coinmarketcap.com/currencies/storj/,https://coinmarketcap.com/currencies/storj/historical-data/,0.2391,92287703.18,5077816.49,386005311
-192,192,Alchemy Pay,ACH,https://coinmarketcap.com/currencies/alchemy-pay/,https://coinmarketcap.com/currencies/alchemy-pay/historical-data/,0.01379,91712920.91,4724978.35,6651042038
-193,193,Kyber Network Crystal v2,KNC,https://coinmarketcap.com/currencies/kyber-network-crystal-v2/,https://coinmarketcap.com/currencies/kyber-network-crystal-v2/historical-data/,0.5359,91355332.57,11055350.26,170466085
-194,194,Cartesi,CTSI,https://coinmarketcap.com/currencies/cartesi/,https://coinmarketcap.com/currencies/cartesi/historical-data/,0.1225,90971104.84,2935206.2,742552410
-195,195,Celer Network,CELR,https://coinmarketcap.com/currencies/celer-network/,https://coinmarketcap.com/currencies/celer-network/historical-data/,0.01155,89407039.42,2096473.84,7743424107
-196,196,PlayDapp,PLA,https://coinmarketcap.com/currencies/playdapp/,https://coinmarketcap.com/currencies/playdapp/historical-data/,0.1552,86940366.42,5954212.5,560128667
-197,197,Pundi X (New),PUNDIX,https://coinmarketcap.com/currencies/pundix-new/,https://coinmarketcap.com/currencies/pundix-new/historical-data/,0.3366,86996042.68,1388172.99,258491637
-198,198,Vulcan Forged PYR,PYR,https://coinmarketcap.com/currencies/vulcan-forged-pyr/,https://coinmarketcap.com/currencies/vulcan-forged-pyr/historical-data/,3.1955,86861435.87,2124704.13,27182227
-199,199,Status,SNT,https://coinmarketcap.com/currencies/status/,https://coinmarketcap.com/currencies/status/historical-data/,0.02173,83853059.08,1634389.39,3859423502
-200,200,Amp,AMP,https://coinmarketcap.com/currencies/amp/,https://coinmarketcap.com/currencies/amp/historical-data/,0.001954,82508280.5,3079303.02,42227702186
+id,rank,name,symbol,current_price,current_market_cap,volume_24_hour,circulating_supply,main_link,historical_link
+1,1,Bitcoin,BTC,26047.67,507090156466.71,12406045117.51,19467775,https://coinmarketcap.com/currencies/bitcoin/,https://coinmarketcap.com/currencies/bitcoin/historical-data/
+2,2,Ethereum,ETH,1652.94,198709982386.16,5396997822.81,120216444,https://coinmarketcap.com/currencies/ethereum/,https://coinmarketcap.com/currencies/ethereum/historical-data/
+3,3,Tether USDt,USDT,0.9995,82807252662.66,19999153581.65,82849133566,https://coinmarketcap.com/currencies/tether/,https://coinmarketcap.com/currencies/tether/historical-data/
+4,4,BNB,BNB,218.33,33590478887.3,423891091.63,153851122,https://coinmarketcap.com/currencies/bnb/,https://coinmarketcap.com/currencies/bnb/historical-data/
+5,5,XRP,XRP,0.5262,27845876512.16,1067427241.27,52914193551,https://coinmarketcap.com/currencies/xrp/,https://coinmarketcap.com/currencies/xrp/historical-data/
+6,6,USD Coin,USDC,1.0001,25919090832.39,2870155394.25,25916750966,https://coinmarketcap.com/currencies/usd-coin/,https://coinmarketcap.com/currencies/usd-coin/historical-data/
+7,7,Cardano,ADA,0.2611,9152956074.04,226745371.9,35058106675,https://coinmarketcap.com/currencies/cardano/,https://coinmarketcap.com/currencies/cardano/historical-data/
+8,8,Dogecoin,DOGE,0.06308,8878470592.73,202977283.44,140739636384,https://coinmarketcap.com/currencies/dogecoin/,https://coinmarketcap.com/currencies/dogecoin/historical-data/
+9,9,Solana,SOL,20.39,8318053764.65,278312420.21,407893307,https://coinmarketcap.com/currencies/solana/,https://coinmarketcap.com/currencies/solana/historical-data/
+10,10,TRON,TRX,0.0772,6900049920.05,174447305.16,89376407310,https://coinmarketcap.com/currencies/tron/,https://coinmarketcap.com/currencies/tron/historical-data/
+11,11,Polkadot,DOT,4.4865,5458384818.16,94505373.46,1216636775,https://coinmarketcap.com/currencies/polkadot-new/,https://coinmarketcap.com/currencies/polkadot-new/historical-data/
+12,12,Dai,DAI,0.9999,5347822079.04,75095538.95,5347888596,https://coinmarketcap.com/currencies/multi-collateral-dai/,https://coinmarketcap.com/currencies/multi-collateral-dai/historical-data/
+13,13,Polygon,MATIC,0.5462,5090241628.57,274560763.21,9319469069,https://coinmarketcap.com/currencies/polygon/,https://coinmarketcap.com/currencies/polygon/historical-data/
+14,14,Toncoin,TON,1.427,4897461704.62,29643403.69,3431892088,https://coinmarketcap.com/currencies/toncoin/,https://coinmarketcap.com/currencies/toncoin/historical-data/
+15,15,Litecoin,LTC,65.11,4790996215.75,268487447.25,73580945,https://coinmarketcap.com/currencies/litecoin/,https://coinmarketcap.com/currencies/litecoin/historical-data/
+16,16,Shiba Inu,SHIB,8.14e-06,4796905977.53,139371203.42,589346914631298,https://coinmarketcap.com/currencies/shiba-inu/,https://coinmarketcap.com/currencies/shiba-inu/historical-data/
+17,17,Wrapped Bitcoin,WBTC,26053.6,4243855522.84,76364182.11,162889,https://coinmarketcap.com/currencies/wrapped-bitcoin/,https://coinmarketcap.com/currencies/wrapped-bitcoin/historical-data/
+18,18,Bitcoin Cash,BCH,192.05,3742379987.32,139896933.21,19486281,https://coinmarketcap.com/currencies/bitcoin-cash/,https://coinmarketcap.com/currencies/bitcoin-cash/historical-data/
+19,19,UNUS SED LEO,LEO,3.8364,3565997081.68,537932.26,929525858,https://coinmarketcap.com/currencies/unus-sed-leo/,https://coinmarketcap.com/currencies/unus-sed-leo/historical-data/
+20,20,Avalanche,AVAX,10.05,3459082269.77,120285068.43,344083482,https://coinmarketcap.com/currencies/avalanche/,https://coinmarketcap.com/currencies/avalanche/historical-data/
+21,21,Stellar,XLM,0.1239,3395969321.15,89277309.03,27417916736,https://coinmarketcap.com/currencies/stellar/,https://coinmarketcap.com/currencies/stellar/historical-data/
+22,22,Chainlink,LINK,6.0074,3232593123.9,161052214.6,538099970,https://coinmarketcap.com/currencies/chainlink/,https://coinmarketcap.com/currencies/chainlink/historical-data/
+23,23,Binance USD,BUSD,1.0003,3153614715.61,1079878217.44,3152534685,https://coinmarketcap.com/currencies/binance-usd/,https://coinmarketcap.com/currencies/binance-usd/historical-data/
+24,24,TrueUSD,TUSD,0.9996,2906332785.19,1733339380.82,2907448856,https://coinmarketcap.com/currencies/trueusd/,https://coinmarketcap.com/currencies/trueusd/historical-data/
+25,25,Uniswap,UNI,4.5498,2627527906.85,87112537.96,577501031,https://coinmarketcap.com/currencies/uniswap/,https://coinmarketcap.com/currencies/uniswap/historical-data/
+26,26,Monero,XMR,139.9,2563461708.97,62511771.52,18323142,https://coinmarketcap.com/currencies/monero/,https://coinmarketcap.com/currencies/monero/historical-data/
+27,27,OKB,OKB,42.67,2560000113.73,1728990.68,60000000,https://coinmarketcap.com/currencies/okb/,https://coinmarketcap.com/currencies/okb/historical-data/
+28,28,Cosmos,ATOM,7.2443,2510937180.9,87429486.09,346608690,https://coinmarketcap.com/currencies/cosmos/,https://coinmarketcap.com/currencies/cosmos/historical-data/
+29,29,Ethereum Classic,ETC,16.0,2282733161.55,75525218.61,142692668,https://coinmarketcap.com/currencies/ethereum-classic/,https://coinmarketcap.com/currencies/ethereum-classic/historical-data/
+30,30,Hedera,HBAR,0.05886,1947264958.07,82946495.9,33083237217,https://coinmarketcap.com/currencies/hedera/,https://coinmarketcap.com/currencies/hedera/historical-data/
+31,31,Internet Computer,ICP,3.5101,1551766082.28,16614482.5,442084120,https://coinmarketcap.com/currencies/internet-computer/,https://coinmarketcap.com/currencies/internet-computer/historical-data/
+32,32,Filecoin,FIL,3.2352,1434049850.09,96585090.02,443258347,https://coinmarketcap.com/currencies/filecoin/,https://coinmarketcap.com/currencies/filecoin/historical-data/
+33,33,Mantle,MNT,0.4296,1389503504.21,12277953.46,3234382071,https://coinmarketcap.com/currencies/mantle/,https://coinmarketcap.com/currencies/mantle/historical-data/
+34,34,Lido DAO,LDO,1.558,1383021589.59,67800848.27,887699772,https://coinmarketcap.com/currencies/lido-dao/,https://coinmarketcap.com/currencies/lido-dao/historical-data/
+35,35,Cronos,CRO,0.05123,1294165405.57,6005789.23,25263013692,https://coinmarketcap.com/currencies/cronos/,https://coinmarketcap.com/currencies/cronos/historical-data/
+36,36,Aptos,APT,5.6911,1293223853.59,88396875.79,227235133,https://coinmarketcap.com/currencies/aptos/,https://coinmarketcap.com/currencies/aptos/historical-data/
+37,37,Quant,QNT,101.43,1224514289.72,12974257.69,12072738,https://coinmarketcap.com/currencies/quant/,https://coinmarketcap.com/currencies/quant/historical-data/
+38,38,Arbitrum,ARB,0.948,1208723808.64,152807293.97,1275000000,https://coinmarketcap.com/currencies/arbitrum/,https://coinmarketcap.com/currencies/arbitrum/historical-data/
+39,39,VeChain,VET,0.01605,1167316310.31,23309138.0,72714516834,https://coinmarketcap.com/currencies/vechain/,https://coinmarketcap.com/currencies/vechain/historical-data/
+40,40,NEAR Protocol,NEAR,1.1897,1120314403.12,47022915.54,941671517,https://coinmarketcap.com/currencies/near-protocol/,https://coinmarketcap.com/currencies/near-protocol/historical-data/
+41,41,Optimism,OP,1.4688,1052692332.09,152907326.63,716708907,https://coinmarketcap.com/currencies/optimism-ethereum/,https://coinmarketcap.com/currencies/optimism-ethereum/historical-data/
+42,42,Maker,MKR,1013.17,990504480.61,64448513.14,977631,https://coinmarketcap.com/currencies/maker/,https://coinmarketcap.com/currencies/maker/historical-data/
+43,43,Aave,AAVE,56.89,826232881.8,68297790.82,14524340,https://coinmarketcap.com/currencies/aave/,https://coinmarketcap.com/currencies/aave/historical-data/
+44,44,The Graph,GRT,0.08914,816867738.33,36019315.03,9164031528,https://coinmarketcap.com/currencies/the-graph/,https://coinmarketcap.com/currencies/the-graph/historical-data/
+45,45,Algorand,ALGO,0.09693,758703967.47,22762098.11,7827171346,https://coinmarketcap.com/currencies/algorand/,https://coinmarketcap.com/currencies/algorand/historical-data/
+46,46,XDC Network,XDC,0.05291,733226989.17,10528676.98,13858710886,https://coinmarketcap.com/currencies/xdc-network/,https://coinmarketcap.com/currencies/xdc-network/historical-data/
+47,47,USDD,USDD,0.9977,723638753.88,24074045.57,725332035,https://coinmarketcap.com/currencies/usdd/,https://coinmarketcap.com/currencies/usdd/historical-data/
+48,48,Axie Infinity,AXS,4.8546,683752252.2,16559944.78,140847467,https://coinmarketcap.com/currencies/axie-infinity/,https://coinmarketcap.com/currencies/axie-infinity/historical-data/
+49,49,The Sandbox,SAND,0.3229,666749800.85,49328785.0,2064931926,https://coinmarketcap.com/currencies/the-sandbox/,https://coinmarketcap.com/currencies/the-sandbox/historical-data/
+50,50,Tezos,XTZ,0.6967,661943435.76,13871033.93,950170580,https://coinmarketcap.com/currencies/tezos/,https://coinmarketcap.com/currencies/tezos/historical-data/
+51,51,Stacks,STX,0.4706,660397460.79,13463491.1,1403323335,https://coinmarketcap.com/currencies/stacks/,https://coinmarketcap.com/currencies/stacks/historical-data/
+52,52,MultiversX,EGLD,25.32,655307121.86,15831684.24,25879171,https://coinmarketcap.com/currencies/multiversx-egld/,https://coinmarketcap.com/currencies/multiversx-egld/historical-data/
+53,53,EOS,EOS,0.5867,645857673.66,87931284.06,1100753047,https://coinmarketcap.com/currencies/eos/,https://coinmarketcap.com/currencies/eos/historical-data/
+54,54,Theta Network,THETA,0.6357,635749025.28,9643726.7,1000000000,https://coinmarketcap.com/currencies/theta-network/,https://coinmarketcap.com/currencies/theta-network/historical-data/
+55,55,Immutable,IMX,0.5627,632186784.21,35319141.27,1123390887,https://coinmarketcap.com/currencies/immutable-x/,https://coinmarketcap.com/currencies/immutable-x/historical-data/
+56,56,Injective,INJ,7.268,608735271.0,29903353.75,83755556,https://coinmarketcap.com/currencies/injective/,https://coinmarketcap.com/currencies/injective/historical-data/
+57,57,Fantom,FTM,0.2077,582258459.46,29980644.43,2802691357,https://coinmarketcap.com/currencies/fantom/,https://coinmarketcap.com/currencies/fantom/historical-data/
+58,58,Bitcoin SV,BSV,30.07,579354449.45,16935868.42,19266077,https://coinmarketcap.com/currencies/bitcoin-sv/,https://coinmarketcap.com/currencies/bitcoin-sv/historical-data/
+59,59,Decentraland,MANA,0.3054,578069048.78,44607866.97,1893095371,https://coinmarketcap.com/currencies/decentraland/,https://coinmarketcap.com/currencies/decentraland/historical-data/
+60,60,Synthetix,SNX,2.0624,555024528.45,32694877.37,269121362,https://coinmarketcap.com/currencies/synthetix/,https://coinmarketcap.com/currencies/synthetix/historical-data/
+61,61,Render,RNDR,1.474,548179027.6,25652189.2,371908453,https://coinmarketcap.com/currencies/render/,https://coinmarketcap.com/currencies/render/historical-data/
+62,62,ApeCoin,APE,1.4461,533029166.23,48122107.87,368593750,https://coinmarketcap.com/currencies/apecoin-ape/,https://coinmarketcap.com/currencies/apecoin-ape/historical-data/
+63,63,Pax Dollar,USDP,0.9996,509987125.72,15049818.82,510215145,https://coinmarketcap.com/currencies/paxos-standard/,https://coinmarketcap.com/currencies/paxos-standard/historical-data/
+64,64,Neo,NEO,7.1754,506141678.92,21426170.45,70538831,https://coinmarketcap.com/currencies/neo/,https://coinmarketcap.com/currencies/neo/historical-data/
+65,65,THORChain,RUNE,1.4807,504043588.86,78363548.78,340415651,https://coinmarketcap.com/currencies/thorchain/,https://coinmarketcap.com/currencies/thorchain/historical-data/
+66,66,Kava,KAVA,0.6834,491529841.24,10826058.77,719219914,https://coinmarketcap.com/currencies/kava/,https://coinmarketcap.com/currencies/kava/historical-data/
+67,67,PAX Gold,PAXG,1902.92,474111896.22,4164837.42,249150,https://coinmarketcap.com/currencies/pax-gold/,https://coinmarketcap.com/currencies/pax-gold/historical-data/
+68,68,Tether Gold,XAUt,1917.13,472618561.86,1043454.41,246524,https://coinmarketcap.com/currencies/tether-gold/,https://coinmarketcap.com/currencies/tether-gold/historical-data/
+69,69,eCash,XEC,2.403e-05,468092957.09,5883170.07,19480448423093,https://coinmarketcap.com/currencies/ecash/,https://coinmarketcap.com/currencies/ecash/historical-data/
+70,70,Flow,FLOW,0.4504,466662055.23,24023463.65,1036200000,https://coinmarketcap.com/currencies/flow/,https://coinmarketcap.com/currencies/flow/historical-data/
+71,71,Rocket Pool,RPL,23.54,461816944.96,3631508.28,19620795,https://coinmarketcap.com/currencies/rocket-pool/,https://coinmarketcap.com/currencies/rocket-pool/historical-data/
+72,72,Chiliz,CHZ,0.06301,449072864.89,21821080.48,7126880905,https://coinmarketcap.com/currencies/chiliz/,https://coinmarketcap.com/currencies/chiliz/historical-data/
+73,73,Gala,GALA,0.01931,447781599.08,39620171.17,23189941688,https://coinmarketcap.com/currencies/gala/,https://coinmarketcap.com/currencies/gala/historical-data/
+74,74,Klaytn,KLAY,0.1386,442419658.82,5989536.21,3192476041,https://coinmarketcap.com/currencies/klaytn/,https://coinmarketcap.com/currencies/klaytn/historical-data/
+75,75,KuCoin Token,KCS,4.5538,440503374.19,1545478.38,96732986,https://coinmarketcap.com/currencies/kucoin-token/,https://coinmarketcap.com/currencies/kucoin-token/historical-data/
+76,76,Frax Share,FXS,5.8141,426293235.96,17490089.18,73320949,https://coinmarketcap.com/currencies/frax-share/,https://coinmarketcap.com/currencies/frax-share/historical-data/
+77,77,IOTA,MIOTA,0.1468,407906646.18,3669231.04,2779530283,https://coinmarketcap.com/currencies/iota/,https://coinmarketcap.com/currencies/iota/historical-data/
+78,78,Zcash,ZEC,25.02,408533685.87,43281382.96,16328269,https://coinmarketcap.com/currencies/zcash/,https://coinmarketcap.com/currencies/zcash/historical-data/
+79,79,Casper,CSPR,0.03577,403210792.05,3053239.75,11272187750,https://coinmarketcap.com/currencies/casper/,https://coinmarketcap.com/currencies/casper/historical-data/
+80,80,Sui,SUI,0.5562,402224441.84,162888635.99,723162190,https://coinmarketcap.com/currencies/sui/,https://coinmarketcap.com/currencies/sui/historical-data/
+81,81,Huobi Token,HT,2.4044,390067399.09,12908659.91,162233844,https://coinmarketcap.com/currencies/huobi-token/,https://coinmarketcap.com/currencies/huobi-token/historical-data/
+82,82,BitTorrent(New),BTT,4.1e-07,388737453.15,16409952.52,951421714286000,https://coinmarketcap.com/currencies/bittorrent-new/,https://coinmarketcap.com/currencies/bittorrent-new/historical-data/
+83,83,Curve DAO Token,CRV,0.4545,388563836.48,40486695.49,854977268,https://coinmarketcap.com/currencies/curve-dao-token/,https://coinmarketcap.com/currencies/curve-dao-token/historical-data/
+84,84,Conflux,CFX,0.1201,380666189.73,21749460.65,3169770493,https://coinmarketcap.com/currencies/conflux-network/,https://coinmarketcap.com/currencies/conflux-network/historical-data/
+85,85,Mina,MINA,0.3943,377292111.77,5883656.38,956977200,https://coinmarketcap.com/currencies/mina/,https://coinmarketcap.com/currencies/mina/historical-data/
+86,86,GateToken,GT,3.8843,373051493.71,709656.5,96041900,https://coinmarketcap.com/currencies/gatetoken/,https://coinmarketcap.com/currencies/gatetoken/historical-data/
+87,87,Terra Classic,LUNC,6.311e-05,367008700.46,13407651.68,5815651920177,https://coinmarketcap.com/currencies/terra-luna/,https://coinmarketcap.com/currencies/terra-luna/historical-data/
+88,88,Trust Wallet Token,TWT,0.8451,352099983.62,6300668.69,416649900,https://coinmarketcap.com/currencies/trust-wallet-token/,https://coinmarketcap.com/currencies/trust-wallet-token/historical-data/
+89,89,Pepe,PEPE,8.8e-07,345799872.92,275837423.37,391790000000000,https://coinmarketcap.com/currencies/pepe/,https://coinmarketcap.com/currencies/pepe/historical-data/
+90,90,dYdX,DYDX,2.1674,338669192.01,55680344.64,156256174,https://coinmarketcap.com/currencies/dydx/,https://coinmarketcap.com/currencies/dydx/historical-data/
+91,91,Compound,COMP,42.66,333203473.32,27745870.48,7811579,https://coinmarketcap.com/currencies/compound/,https://coinmarketcap.com/currencies/compound/historical-data/
+92,92,Nexo,NEXO,0.5921,331597132.01,2646081.13,560000011,https://coinmarketcap.com/currencies/nexo/,https://coinmarketcap.com/currencies/nexo/historical-data/
+93,93,GMX,GMX,36.72,329307564.16,10808744.78,8968871,https://coinmarketcap.com/currencies/gmx/,https://coinmarketcap.com/currencies/gmx/historical-data/
+94,94,Bone ShibaSwap,BONE,1.4097,324120084.27,12467088.15,229923351,https://coinmarketcap.com/currencies/bone-shibaswap/,https://coinmarketcap.com/currencies/bone-shibaswap/historical-data/
+95,95,APENFT,NFT,3.2e-07,319183570.45,20801039.33,990105683025577,https://coinmarketcap.com/currencies/apenft/,https://coinmarketcap.com/currencies/apenft/historical-data/
+96,96,WOO Network,WOO,0.1828,317281942.53,8364316.0,1735838573,https://coinmarketcap.com/currencies/wootrade/,https://coinmarketcap.com/currencies/wootrade/historical-data/
+97,97,Gemini Dollar,GUSD,0.9977,310553103.67,665745.36,311274154,https://coinmarketcap.com/currencies/gemini-dollar/,https://coinmarketcap.com/currencies/gemini-dollar/historical-data/
+98,98,Flare,FLR,0.0136,310309647.18,4926724.29,22817003626,https://coinmarketcap.com/currencies/flare/,https://coinmarketcap.com/currencies/flare/historical-data/
+99,99,Astar,ASTR,0.06444,304464153.09,16871189.08,4724937882,https://coinmarketcap.com/currencies/astar/,https://coinmarketcap.com/currencies/astar/historical-data/
+100,100,Dash,DASH,25.56,292018552.81,42382421.01,11422898,https://coinmarketcap.com/currencies/dash/,https://coinmarketcap.com/currencies/dash/historical-data/
+101,101,Akash Network,AKT,1.3118,285205564.35,3635942.35,217416538,https://coinmarketcap.com/currencies/akash-network/,https://coinmarketcap.com/currencies/akash-network/historical-data/
+102,102,PancakeSwap,CAKE,1.2778,283057029.83,13555466.11,221512943,https://coinmarketcap.com/currencies/pancakeswap/,https://coinmarketcap.com/currencies/pancakeswap/historical-data/
+103,103,MX TOKEN,MX,2.7642,278385921.23,2773749.15,100709834,https://coinmarketcap.com/currencies/mx-token/,https://coinmarketcap.com/currencies/mx-token/historical-data/
+104,104,Arweave,AR,4.1741,273215225.34,22890703.54,65454185,https://coinmarketcap.com/currencies/arweave/,https://coinmarketcap.com/currencies/arweave/historical-data/
+105,105,Zilliqa,ZIL,0.01678,266192636.38,9289423.68,15867699447,https://coinmarketcap.com/currencies/zilliqa/,https://coinmarketcap.com/currencies/zilliqa/historical-data/
+106,106,Oasis Network,ROSE,0.04016,262758293.88,8488734.89,6542267493,https://coinmarketcap.com/currencies/oasis-network/,https://coinmarketcap.com/currencies/oasis-network/historical-data/
+107,107,Gnosis,GNO,100.37,259916757.02,9010761.33,2589588,https://coinmarketcap.com/currencies/gnosis-gno/,https://coinmarketcap.com/currencies/gnosis-gno/historical-data/
+108,108,Basic Attention Token,BAT,0.1741,259390286.81,11652074.4,1489950992,https://coinmarketcap.com/currencies/basic-attention-token/,https://coinmarketcap.com/currencies/basic-attention-token/historical-data/
+109,109,SafePal,SFP,0.5169,258458487.51,18332639.01,500000000,https://coinmarketcap.com/currencies/safepal/,https://coinmarketcap.com/currencies/safepal/historical-data/
+110,110,1inch Network,1INCH,0.2466,254142214.04,14697983.67,1030493101,https://coinmarketcap.com/currencies/1inch/,https://coinmarketcap.com/currencies/1inch/historical-data/
+111,111,Sei,SEI,0.1392,250514511.16,76796276.75,1800000000,https://coinmarketcap.com/currencies/sei/,https://coinmarketcap.com/currencies/sei/historical-data/
+112,112,Chia,XCH,30.15,249594139.73,2493014.38,8278012,https://coinmarketcap.com/currencies/chia-network/,https://coinmarketcap.com/currencies/chia-network/historical-data/
+113,113,Loopring,LRC,0.1826,243120792.45,7950107.13,1331547705,https://coinmarketcap.com/currencies/loopring/,https://coinmarketcap.com/currencies/loopring/historical-data/
+114,114,Enjin Coin,ENJ,0.2399,239879871.02,9047904.29,1000000000,https://coinmarketcap.com/currencies/enjin-coin/,https://coinmarketcap.com/currencies/enjin-coin/historical-data/
+115,115,Helium,HNT,1.6214,233371411.7,1847724.85,143934821,https://coinmarketcap.com/currencies/helium/,https://coinmarketcap.com/currencies/helium/historical-data/
+116,116,Qtum,QTUM,2.1995,230408357.9,21824327.41,104755842,https://coinmarketcap.com/currencies/qtum/,https://coinmarketcap.com/currencies/qtum/historical-data/
+117,117,Ethereum Name Service,ENS,7.7697,230123909.42,7249456.61,29618123,https://coinmarketcap.com/currencies/ethereum-name-service/,https://coinmarketcap.com/currencies/ethereum-name-service/historical-data/
+118,118,NEM,XEM,0.0252,226756776.59,3637894.71,8999999999,https://coinmarketcap.com/currencies/nem/,https://coinmarketcap.com/currencies/nem/historical-data/
+119,119,Bitcoin Gold,BTG,12.71,222687909.02,1816441.53,17513924,https://coinmarketcap.com/currencies/bitcoin-gold/,https://coinmarketcap.com/currencies/bitcoin-gold/historical-data/
+120,120,SingularityNET,AGIX,0.1816,223803293.06,25677761.3,1232484306,https://coinmarketcap.com/currencies/singularitynet/,https://coinmarketcap.com/currencies/singularitynet/historical-data/
+121,121,Convex Finance,CVX,2.7635,220872673.57,4799292.5,79924699,https://coinmarketcap.com/currencies/convex-finance/,https://coinmarketcap.com/currencies/convex-finance/historical-data/
+122,122,Mask Network,MASK,2.6777,219868739.56,42448920.27,82112500,https://coinmarketcap.com/currencies/mask-network/,https://coinmarketcap.com/currencies/mask-network/historical-data/
+123,123,Celo,CELO,0.4277,217466370.64,5014092.56,508448178,https://coinmarketcap.com/currencies/celo/,https://coinmarketcap.com/currencies/celo/historical-data/
+124,124,Theta Fuel,TFUEL,0.03337,208826970.64,1666662.11,6257139017,https://coinmarketcap.com/currencies/theta-fuel/,https://coinmarketcap.com/currencies/theta-fuel/historical-data/
+125,125,Decred,DCR,13.27,204933768.36,3536271.7,15438317,https://coinmarketcap.com/currencies/decred/,https://coinmarketcap.com/currencies/decred/historical-data/
+126,126,Ankr,ANKR,0.01994,199419911.21,7104786.37,10000000000,https://coinmarketcap.com/currencies/ankr/,https://coinmarketcap.com/currencies/ankr/historical-data/
+127,127,Ravencoin,RVN,0.01533,197729455.63,4640807.83,12899485605,https://coinmarketcap.com/currencies/ravencoin/,https://coinmarketcap.com/currencies/ravencoin/historical-data/
+128,128,Osmosis,OSMO,0.398,196035048.71,4523572.86,492590761,https://coinmarketcap.com/currencies/osmosis/,https://coinmarketcap.com/currencies/osmosis/historical-data/
+129,129,Ocean Protocol,OCEAN,0.3191,195666273.8,21516327.25,613099141,https://coinmarketcap.com/currencies/ocean-protocol/,https://coinmarketcap.com/currencies/ocean-protocol/historical-data/
+130,130,yearn.finance,YFI,5743.31,189768242.79,32477076.44,33042,https://coinmarketcap.com/currencies/yearn-finance/,https://coinmarketcap.com/currencies/yearn-finance/historical-data/
+131,131,Livepeer,LPT,6.6052,190321657.35,46599344.67,28813799,https://coinmarketcap.com/currencies/livepeer/,https://coinmarketcap.com/currencies/livepeer/historical-data/
+132,132,Holo,HOT,0.001089,187223432.7,7232514.6,171989009269,https://coinmarketcap.com/currencies/holo/,https://coinmarketcap.com/currencies/holo/historical-data/
+133,133,JUST,JST,0.02075,184678157.7,26282427.87,8902080000,https://coinmarketcap.com/currencies/just/,https://coinmarketcap.com/currencies/just/historical-data/
+134,134,STEPN,GMT,0.168,184504985.59,14461809.97,1098267251,https://coinmarketcap.com/currencies/green-metaverse-token/,https://coinmarketcap.com/currencies/green-metaverse-token/historical-data/
+135,135,Balancer,BAL,3.4894,180660096.04,3011030.81,51773342,https://coinmarketcap.com/currencies/balancer/,https://coinmarketcap.com/currencies/balancer/historical-data/
+136,136,aelf,ELF,0.2885,179857321.91,6632930.42,623346585,https://coinmarketcap.com/currencies/aelf/,https://coinmarketcap.com/currencies/aelf/historical-data/
+137,137,Fetch.ai,FET,0.2172,177921029.73,40368780.24,819234391,https://coinmarketcap.com/currencies/fetch/,https://coinmarketcap.com/currencies/fetch/historical-data/
+138,138,Blur,BLUR,0.203,176961202.02,18453388.9,871655440,https://coinmarketcap.com/currencies/blur-token/,https://coinmarketcap.com/currencies/blur-token/historical-data/
+139,139,Waves,WAVES,1.5319,172051395.02,23640637.4,112314532,https://coinmarketcap.com/currencies/waves/,https://coinmarketcap.com/currencies/waves/historical-data/
+140,140,Golem,GLM,0.1708,170836389.63,2591329.18,1000000000,https://coinmarketcap.com/currencies/golem-network-tokens/,https://coinmarketcap.com/currencies/golem-network-tokens/historical-data/
+141,141,Aragon,ANT,4.2559,170362619.31,10616920.75,40029852,https://coinmarketcap.com/currencies/aragon/,https://coinmarketcap.com/currencies/aragon/historical-data/
+142,142,Audius,AUDIO,0.1509,166961966.86,3482186.35,1106620023,https://coinmarketcap.com/currencies/audius/,https://coinmarketcap.com/currencies/audius/historical-data/
+143,143,JasmyCoin,JASMY,0.003405,166499858.56,11715276.53,48899999999,https://coinmarketcap.com/currencies/jasmy/,https://coinmarketcap.com/currencies/jasmy/historical-data/
+144,144,FLOKI,FLOKI,1.756e-05,165691080.08,9666843.9,9435132149429,https://coinmarketcap.com/currencies/floki-inu/,https://coinmarketcap.com/currencies/floki-inu/historical-data/
+145,145,Threshold,T,0.01847,165422273.7,3437076.95,8956248017,https://coinmarketcap.com/currencies/threshold/,https://coinmarketcap.com/currencies/threshold/historical-data/
+146,146,ICON,ICX,0.1695,163669478.54,2467118.41,965535827,https://coinmarketcap.com/currencies/icon/,https://coinmarketcap.com/currencies/icon/historical-data/
+147,147,Kusama,KSM,19.11,161905219.88,7737748.95,8470098,https://coinmarketcap.com/currencies/kusama/,https://coinmarketcap.com/currencies/kusama/historical-data/
+148,148,Siacoin,SC,0.002925,160633077.22,3912022.89,54915892901,https://coinmarketcap.com/currencies/siacoin/,https://coinmarketcap.com/currencies/siacoin/historical-data/
+149,149,Worldcoin,WLD,1.2667,160653137.13,47733742.84,126831241,https://coinmarketcap.com/currencies/worldcoin-org/,https://coinmarketcap.com/currencies/worldcoin-org/historical-data/
+150,150,Solar,SXP,0.2687,154613096.98,9004557.54,575508682,https://coinmarketcap.com/currencies/sxp/,https://coinmarketcap.com/currencies/sxp/historical-data/
+151,151,Terra,LUNA,0.4205,150348361.81,17167568.4,357565717,https://coinmarketcap.com/currencies/terra-luna-v2/,https://coinmarketcap.com/currencies/terra-luna-v2/historical-data/
+152,152,Illuvium,ILV,42.35,149283070.48,3898537.54,3525321,https://coinmarketcap.com/currencies/illuvium/,https://coinmarketcap.com/currencies/illuvium/historical-data/
+153,153,Hive,HIVE,0.2929,146652257.01,2198305.99,500749243,https://coinmarketcap.com/currencies/hive-blockchain/,https://coinmarketcap.com/currencies/hive-blockchain/historical-data/
+154,154,0x Protocol,ZRX,0.1723,146000756.62,6772888.5,847496055,https://coinmarketcap.com/currencies/0x/,https://coinmarketcap.com/currencies/0x/historical-data/
+155,155,EthereumPoW,ETHW,1.327,143071341.96,3856402.04,107818999,https://coinmarketcap.com/currencies/ethereum-pow/,https://coinmarketcap.com/currencies/ethereum-pow/historical-data/
+156,156,Ontology,ONT,0.1629,142619354.22,4998608.02,875249524,https://coinmarketcap.com/currencies/ontology/,https://coinmarketcap.com/currencies/ontology/historical-data/
+157,157,ssv.network,SSV,14.22,142196532.56,4338715.71,10000000,https://coinmarketcap.com/currencies/ssv-network/,https://coinmarketcap.com/currencies/ssv-network/historical-data/
+158,158,Moonbeam,GLMR,0.195,139493172.17,1301095.9,715412253,https://coinmarketcap.com/currencies/moonbeam/,https://coinmarketcap.com/currencies/moonbeam/historical-data/
+159,159,IOST,IOST,0.00733,137136497.78,5983416.47,18708894189,https://coinmarketcap.com/currencies/iostoken/,https://coinmarketcap.com/currencies/iostoken/historical-data/
+160,160,Band Protocol,BAND,1.0306,137400379.15,4171444.95,133318127,https://coinmarketcap.com/currencies/band-protocol/,https://coinmarketcap.com/currencies/band-protocol/historical-data/
+161,161,Biconomy,BICO,0.2116,136916378.8,1792345.42,647110632,https://coinmarketcap.com/currencies/biconomy/,https://coinmarketcap.com/currencies/biconomy/historical-data/
+162,162,Harmony,ONE,0.0101,136032462.42,6617847.6,13471510624,https://coinmarketcap.com/currencies/harmony/,https://coinmarketcap.com/currencies/harmony/historical-data/
+163,163,WAX,WAXP,0.04074,136209901.34,1934672.45,3343754024,https://coinmarketcap.com/currencies/wax/,https://coinmarketcap.com/currencies/wax/historical-data/
+164,164,SushiSwap,SUSHI,0.5842,134943891.95,15341137.26,231003522,https://coinmarketcap.com/currencies/sushiswap/,https://coinmarketcap.com/currencies/sushiswap/historical-data/
+165,165,Axelar,AXL,0.3518,131589746.46,16779805.92,374004719,https://coinmarketcap.com/currencies/axelar/,https://coinmarketcap.com/currencies/axelar/historical-data/
+166,166,IoTeX,IOTX,0.01373,129646454.31,3448326.63,9444989892,https://coinmarketcap.com/currencies/iotex/,https://coinmarketcap.com/currencies/iotex/historical-data/
+167,167,MAGIC,MAGIC,0.5703,127036769.83,21525932.09,222744820,https://coinmarketcap.com/currencies/magic-token/,https://coinmarketcap.com/currencies/magic-token/historical-data/
+168,168,Merit Circle,MC,0.2942,125100518.6,6498874.03,425228837,https://coinmarketcap.com/currencies/merit-circle/,https://coinmarketcap.com/currencies/merit-circle/historical-data/
+169,169,TerraClassicUSD,USTC,0.01251,122466503.22,3570494.55,9789430796,https://coinmarketcap.com/currencies/terrausd/,https://coinmarketcap.com/currencies/terrausd/historical-data/
+170,170,Kadena,KDA,0.5041,122625935.14,12043500.87,243250679,https://coinmarketcap.com/currencies/kadena/,https://coinmarketcap.com/currencies/kadena/historical-data/
+171,171,UniBot,UNIBOT,119.14,119139451.35,13371929.55,1000000,https://coinmarketcap.com/currencies/unibot-eth/,https://coinmarketcap.com/currencies/unibot-eth/historical-data/
+172,172,BORA,BORA,0.1176,116876111.22,1078056.71,993750000,https://coinmarketcap.com/currencies/bora/,https://coinmarketcap.com/currencies/bora/historical-data/
+173,173,Nervos Network,CKB,0.002721,114178600.51,1195930.34,41962922918,https://coinmarketcap.com/currencies/nervos-network/,https://coinmarketcap.com/currencies/nervos-network/historical-data/
+174,174,DigiByte,DGB,0.006809,112051075.54,2133416.2,16457123721,https://coinmarketcap.com/currencies/digibyte/,https://coinmarketcap.com/currencies/digibyte/historical-data/
+175,175,Stargate Finance,STG,0.5446,111284549.85,9372284.74,204338417,https://coinmarketcap.com/currencies/stargate-finance/,https://coinmarketcap.com/currencies/stargate-finance/historical-data/
+176,176,DAO Maker,DAO,0.7579,109097574.63,2050386.87,143942531,https://coinmarketcap.com/currencies/dao-maker/,https://coinmarketcap.com/currencies/dao-maker/historical-data/
+177,177,MobileCoin,MOB,0.5473,106878901.86,855033.54,195286109,https://coinmarketcap.com/currencies/mobilecoin/,https://coinmarketcap.com/currencies/mobilecoin/historical-data/
+178,178,Ribbon Finance,RBN,0.1941,104229874.78,435345.29,537049175,https://coinmarketcap.com/currencies/ribbon-finance/,https://coinmarketcap.com/currencies/ribbon-finance/historical-data/
+179,179,Core,CORE,0.6673,103622716.9,4883820.52,155286272,https://coinmarketcap.com/currencies/core-dao/,https://coinmarketcap.com/currencies/core-dao/historical-data/
+180,180,SKALE,SKL,0.02214,103487619.04,5535973.77,4673852671,https://coinmarketcap.com/currencies/skale-network/,https://coinmarketcap.com/currencies/skale-network/historical-data/
+181,181,Flux,FLUX,0.3227,102255066.05,12542901.39,316888369,https://coinmarketcap.com/currencies/zel/,https://coinmarketcap.com/currencies/zel/historical-data/
+182,182,UMA,UMA,1.373,100999215.75,4397352.64,73560634,https://coinmarketcap.com/currencies/uma/,https://coinmarketcap.com/currencies/uma/historical-data/
+183,183,Horizen,ZEN,7.124,100103068.04,4518427.98,14051619,https://coinmarketcap.com/currencies/horizen/,https://coinmarketcap.com/currencies/horizen/historical-data/
+184,184,Galxe,GAL,1.1478,97438508.25,11389253.2,84890333,https://coinmarketcap.com/currencies/galxe/,https://coinmarketcap.com/currencies/galxe/historical-data/
+185,185,Reserve Rights,RSR,0.001899,96087678.25,2934968.45,50600000000,https://coinmarketcap.com/currencies/reserve-rights/,https://coinmarketcap.com/currencies/reserve-rights/historical-data/
+186,186,TomoChain,TOMO,1.0169,98470191.43,52610535.22,96830754,https://coinmarketcap.com/currencies/tomochain/,https://coinmarketcap.com/currencies/tomochain/historical-data/
+187,187,Everscale,EVER,0.05244,94519051.53,2537487.22,1802521252,https://coinmarketcap.com/currencies/everscale/,https://coinmarketcap.com/currencies/everscale/historical-data/
+188,188,STP,STPT,0.04524,87870432.95,4474869.51,1942420283,https://coinmarketcap.com/currencies/standard-tokenization-protocol/,https://coinmarketcap.com/currencies/standard-tokenization-protocol/historical-data/
+189,189,Lisk,LSK,0.7195,92740883.38,1294868.67,128900445,https://coinmarketcap.com/currencies/lisk/,https://coinmarketcap.com/currencies/lisk/historical-data/
+190,190,Nano,XNO,0.6947,92571025.39,25218288.55,133248297,https://coinmarketcap.com/currencies/nano/,https://coinmarketcap.com/currencies/nano/historical-data/
+191,191,Storj,STORJ,0.2391,92287703.18,5077816.49,386005311,https://coinmarketcap.com/currencies/storj/,https://coinmarketcap.com/currencies/storj/historical-data/
+192,192,Alchemy Pay,ACH,0.01379,91712920.91,4724978.35,6651042038,https://coinmarketcap.com/currencies/alchemy-pay/,https://coinmarketcap.com/currencies/alchemy-pay/historical-data/
+193,193,Kyber Network Crystal v2,KNC,0.5359,91355332.57,11055350.26,170466085,https://coinmarketcap.com/currencies/kyber-network-crystal-v2/,https://coinmarketcap.com/currencies/kyber-network-crystal-v2/historical-data/
+194,194,Cartesi,CTSI,0.1225,90971104.84,2935206.2,742552410,https://coinmarketcap.com/currencies/cartesi/,https://coinmarketcap.com/currencies/cartesi/historical-data/
+195,195,Celer Network,CELR,0.01155,89407039.42,2096473.84,7743424107,https://coinmarketcap.com/currencies/celer-network/,https://coinmarketcap.com/currencies/celer-network/historical-data/
+196,196,PlayDapp,PLA,0.1552,86940366.42,5954212.5,560128667,https://coinmarketcap.com/currencies/playdapp/,https://coinmarketcap.com/currencies/playdapp/historical-data/
+197,197,Pundi X (New),PUNDIX,0.3366,86996042.68,1388172.99,258491637,https://coinmarketcap.com/currencies/pundix-new/,https://coinmarketcap.com/currencies/pundix-new/historical-data/
+198,198,Vulcan Forged PYR,PYR,3.1955,86861435.87,2124704.13,27182227,https://coinmarketcap.com/currencies/vulcan-forged-pyr/,https://coinmarketcap.com/currencies/vulcan-forged-pyr/historical-data/
+199,199,Status,SNT,0.02173,83853059.08,1634389.39,3859423502,https://coinmarketcap.com/currencies/status/,https://coinmarketcap.com/currencies/status/historical-data/
+200,200,Amp,AMP,0.001954,82508280.5,3079303.02,42227702186,https://coinmarketcap.com/currencies/amp/,https://coinmarketcap.com/currencies/amp/historical-data/
