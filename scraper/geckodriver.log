@@ -32456,3 +32456,246 @@ e@https://s2.coinmarketcap.com/_next/static/chunks/pages/_app-0ad3df3f42c70baf.j
 1693674896995	Marionette	INFO	Stopped listening on port 52304
 Dynamically enable window occlusion 1
 JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1693723583301	geckodriver	INFO	Listening on 127.0.0.1:49195
+1693723586285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\falla\\AppData\\Local\\Temp\\rust_mozprofile2nlDod"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693723587594	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693723588777	Marionette	INFO	Listening on port 49209
+Read port: 49209
+Read port: 49209
+1693723593882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 757))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+1693723782315	Marionette	INFO	Stopped listening on port 49209
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1693725430946	geckodriver	INFO	Listening on 127.0.0.1:50218
+1693725434373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\falla\\AppData\\Local\\Temp\\rust_mozprofileGtrEnX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693725435355	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693725436768	Marionette	INFO	Listening on port 50230
+Read port: 50230
+1693725437559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript warning: https://s2.coinmarketcap.com/_next/static/chunks/pages/_app-0ad3df3f42c70baf.js, line 1: Script terminated by timeout at:
+11426/tt/<@https://s2.coinmarketcap.com/_next/static/chunks/pages/_app-0ad3df3f42c70baf.js:1:7097
+e@https://s2.coinmarketcap.com/_next/static/chunks/pages/_app-0ad3df3f42c70baf.js:1:6957
+
+1693725716704	Marionette	INFO	Stopped listening on port 50230
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1693726555472	geckodriver	INFO	Listening on 127.0.0.1:50778
+1693726558499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\falla\\AppData\\Local\\Temp\\rust_mozprofileJL5xNR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693726558974	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693726559594	Marionette	INFO	Listening on port 50793
+Read port: 50793
+1693726559734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://s2.coinmarketcap.com/_next/static/chunks/48307-9983e0f06db76228.js, line 1: Error: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://s2.coinmarketcap.com/_next/static/chunks/48307-9983e0f06db76228.js, line 1: Error: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: , line 0: ConstraintError: A mutation operation in the transaction failed because a constraint was not satisfied.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://s2.coinmarketcap.com/_next/static/chunks/48307-9983e0f06db76228.js, line 1: Error: NetworkError when attempting to fetch resource.
+JavaScript error: https://s2.coinmarketcap.com/_next/static/chunks/48307-9983e0f06db76228.js, line 1: Error: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+1693727056283	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://s2.coinmarketcap.com/_next/static/chunks/48307-9983e0f06db76228.js, line 1: Error: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://s2.coinmarketcap.com/_next/static/chunks/48307-9983e0f06db76228.js, line 1: Error: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+1693727240328	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+1693727568202	Marionette	INFO	Stopped listening on port 50793
+JavaScript warning: https://coinmarketcap.com/currencies/amp/, line 2: Script terminated by timeout at:
+window.fetch/<@https://coinmarketcap.com/currencies/amp/:2:986
+
+Dynamically enable window occlusion 1
+1693728948610	geckodriver	INFO	Listening on 127.0.0.1:53043
+1693728951731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\falla\\AppData\\Local\\Temp\\rust_mozprofileDtOiO1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693728952433	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693728953489	Marionette	INFO	Listening on port 53067
+Read port: 53067
+Read port: 53067
+Read port: 53067
+Read port: 53067
+Read port: 53067
+Read port: 53067
+Read port: 53067
+Read port: 53067
+Read port: 53067
+1693728962688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+1693729171829	Marionette	INFO	Stopped listening on port 53067
+JavaScript warning: https://s2.coinmarketcap.com/_next/static/chunks/framework-a01a042509ba197f.js, line 1: Script terminated by timeout at:
+Gt@https://s2.coinmarketcap.com/_next/static/chunks/framework-a01a042509ba197f.js:1:43329
+
+Dynamically enable window occlusion 1
+1693729193550	geckodriver	INFO	Listening on 127.0.0.1:53285
+1693729196814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\falla\\AppData\\Local\\Temp\\rust_mozprofileXOEAFE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693729197316	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693729197768	Marionette	INFO	Listening on port 53297
+Read port: 53297
+Read port: 53297
+Read port: 53297
+1693729205049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 757))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+1693729474406	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://s2.coinmarketcap.com/_next/static/chunks/48307-9983e0f06db76228.js, line 1: Error: NetworkError when attempting to fetch resource.
+JavaScript error: https://s2.coinmarketcap.com/_next/static/chunks/48307-9983e0f06db76228.js, line 1: Error: NetworkError when attempting to fetch resource.
+JavaScript error: https://s2.coinmarketcap.com/_next/static/chunks/48307-9983e0f06db76228.js, line 1: Error: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: ConstraintError: A mutation operation in the transaction failed because a constraint was not satisfied.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://s2.coinmarketcap.com/_next/static/chunks/94800.afb9670fd6c138fb.js, line 1: TypeError: this.canvas is null
+JavaScript error: https://s2.coinmarketcap.com/_next/static/chunks/94800.afb9670fd6c138fb.js, line 1: TypeError: this.canvas is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://s2.coinmarketcap.com/_next/static/chunks/48307-9983e0f06db76228.js, line 1: Error: NetworkError when attempting to fetch resource.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: , line 0: ConstraintError: A mutation operation in the transaction failed because a constraint was not satisfied.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+1693729888012	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+1693729930570	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+1693729971376	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: , line 0: ConstraintError: A mutation operation in the transaction failed because a constraint was not satisfied.
+JavaScript error: https://s2.coinmarketcap.com/_next/static/chunks/48307-9983e0f06db76228.js, line 1: Error: NetworkError when attempting to fetch resource.
+JavaScript error: https://s2.coinmarketcap.com/_next/static/chunks/48307-9983e0f06db76228.js, line 1: Error: NetworkError when attempting to fetch resource.
+JavaScript error: https://s2.coinmarketcap.com/_next/static/chunks/48307-9983e0f06db76228.js, line 1: Error: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: ConstraintError: A mutation operation in the transaction failed because a constraint was not satisfied.
+JavaScript error: https://s2.coinmarketcap.com/_next/static/chunks/94800.afb9670fd6c138fb.js, line 1: TypeError: this.canvas is null
+JavaScript error: https://s2.coinmarketcap.com/_next/static/chunks/94800.afb9670fd6c138fb.js, line 1: TypeError: this.canvas is null
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: n is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/202303.2.0/otBannerSdk.js, line 7: TypeError: f.bannerGroup is undefined
+1693730163758	Marionette	INFO	Stopped listening on port 53297
+JavaScript warning: https://s2.coinmarketcap.com/_next/static/chunks/37301-396a0b9c400a7447.js, line 1: Script terminated by timeout at:
+f@https://s2.coinmarketcap.com/_next/static/chunks/37301-396a0b9c400a7447.js:1:4952
+58354/e.prototype.isActive@https://s2.coinmarketcap.com/_next/static/chunks/37301-396a0b9c400a7447.js:1:9920
+58354/B/</<@https://s2.coinmarketcap.com/_next/static/chunks/37301-396a0b9c400a7447.js:1:7705
+58354/B/<@https://s2.coinmarketcap.com/_next/static/chunks/37301-396a0b9c400a7447.js:1:7682
+B@https://s2.coinmarketcap.com/_next/static/chunks/37301-396a0b9c400a7447.js:1:7540
+O@https://s2.coinmarketcap.com/_next/static/chunks/37301-396a0b9c400a7447.js:1:7815
+n@https://s2.coinmarketcap.com/_next/static/chunks/37301-396a0b9c400a7447.js:1:8893
+
+Dynamically enable window occlusion 1
