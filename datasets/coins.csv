@@ -1,4 +1,4 @@
-Rank,Name,Symbol,Price,Market Cap,Volume(24 Hour),Ciruculating Supply,Main Link,Historical Link,GitHub Link,Tags
+Rank,Name,Symbol,Price,Market Cap,Volume(24 Hour),Circulating Supply,Main Link,Historical Link,GitHub Link,Tags
 1,Bitcoin,BTC,26047.67,507090156466.71,12406045117.51,19467775,https://coinmarketcap.com/currencies/bitcoin/,https://coinmarketcap.com/currencies/bitcoin/historical-data/,https://github.com/bitcoin/bitcoin,"['Mineable', 'PoW', 'SHA-256']"
 2,Ethereum,ETH,1652.94,198709982386.16,5396997822.81,120216444,https://coinmarketcap.com/currencies/ethereum/,https://coinmarketcap.com/currencies/ethereum/historical-data/,https://github.com/ethereum/go-ethereum,"['PoS', 'Smart Contracts', 'Ethereum Ecosystem']"
 3,Tether USDt,USDT,0.9995,82807252662.66,19999153581.65,82849133566,https://coinmarketcap.com/currencies/tether/,https://coinmarketcap.com/currencies/tether/historical-data/,No GitHub Link,"['Payments', 'Stablecoin', 'Asset-Backed Stablecoin']"
