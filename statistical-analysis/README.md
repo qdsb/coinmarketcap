@@ -1,4 +1,4 @@
-# Statistics Analysis Section
+# Statistical Analysis Section
 
 Analysis of the datasets from coinmarketcap.
 
