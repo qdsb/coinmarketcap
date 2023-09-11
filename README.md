@@ -180,14 +180,14 @@ Conversion notes:
 <p>
 <p dir="rtl">
 
-<img src="images/image1.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://lh4.googleusercontent.com/nugGXv4I5OdZUYfaZV8kLAssl4fjVo-rD_sqndpzVx2Nk0QSpRw_MSCOesIin91YK_iz_Q_B5tnW598kOMGqZnWW0kcLwNiSBuXD9kr_q8eBSNZOq7UnZ5ojqNWzBMFcfZ3kjLKtxn-SwkYaifomiZo" width="" alt="alt_text" title="image_tooltip">
 </p>
 
 </p>
 <p>
 <p dir="rtl">
 
-<img src="images/image2.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://lh4.googleusercontent.com/bA8n8aPiH68FnMwaA1w-YzjFNaKlP82Jf9soH3Wkl785eg6X6eW11IZyVC1DoSYo8QSBPokwAqLRd1_KAvYenLQvGwGTB3pLfy-BLOa-YTTNtEAzoLZbOMReooD40eNcEzr1btQ99hHKLGR5i4ZIHJg" width="" alt="alt_text" title="image_tooltip">
 </p>
 
 </p>
@@ -232,7 +232,7 @@ Conversion notes:
 <p>
 <p dir="rtl">
 
-<img src="images/image3.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://lh5.googleusercontent.com/v-uMNkdDaRJ9AFoWSHR8Y1FRtKGppjhlYrR7FFPH2qywNckIOc4kWOKeuBnWZwdtWLu1WuJfRRdl2yDLHXkfp4VOd5aJUxQdauwSekOf4KMtR-08ZT4fEIf4-qwb9xtdUIEA3xaoI6YbZ3y9x6F4kOc" width="" alt="alt_text" title="image_tooltip">
 </p>
 
 </p>
