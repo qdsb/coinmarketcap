@@ -34462,3 +34462,42 @@ JavaScript error: chrome://global/content/elements/browser-custom-element.js, li
 JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 645: TypeError: this.browsingContext is null
 console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1694424489856	geckodriver	INFO	Listening on 127.0.0.1:51956
+1694424492950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\falla\\AppData\\Local\\Temp\\rust_mozprofileCzGb0e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694424497842	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694424498421	Marionette	INFO	Listening on port 55656
+Read port: 55656
+Read port: 55656
+Read port: 55656
+Read port: 55656
+1694424503494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1694426614172	geckodriver	INFO	Listening on 127.0.0.1:56145
+1694426617188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\falla\\AppData\\Local\\Temp\\rust_mozprofile5aS5ds"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694426617817	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694426617890	Marionette	INFO	Listening on port 56155
+Read port: 56155
+1694426619275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: https://github.githubassets.com/assets/behaviors-2f60da4f16b9.js, line 1: AbortError: The operation was aborted. 
+JavaScript warning: https://viewscreen.githubusercontent.com/static/assets/mermaidMarkdown-581db16db5a6d7bdf50b.js, line 2: Script terminated by timeout at:
+5467/<@https://viewscreen.githubusercontent.com/static/assets/mermaidMarkdown-581db16db5a6d7bdf50b.js:2:7605
+
+JavaScript error: https://github.githubassets.com/assets/behaviors-2f60da4f16b9.js, line 1: AbortError: The operation was aborted. 
+JavaScript error: https://github.githubassets.com/assets/behaviors-2f60da4f16b9.js, line 1: AbortError: The operation was aborted. 
