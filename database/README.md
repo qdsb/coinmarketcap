@@ -33,3 +33,7 @@ You need to install following packages to run this notebook:
   pip install SQLAlchemy python-dotenv pandas mysql-connector-python
 ```
     
+## 🔗 Useful Links
+- https://docs.sqlalchemy.org/en/20/
+- https://pandas.pydata.org/docs/
+- https://github.com/theskumar/python-dotenv

@@ -38,4 +38,12 @@ You need to install following packages to run this notebook:
   pip install plotly tabulate scipy wordcloud
 ```
 
-    
+## 🔗 Useful Links
+- https://docs.sqlalchemy.org/en/20/
+- https://pandas.pydata.org/docs/
+- https://github.com/theskumar/python-dotenv
+- https://numpy.org/doc/stable/
+- https://plotly.com/python/
+- https://github.com/astanin/python-tabulate
+- https://docs.scipy.org/doc/scipy/
+- https://github.com/amueller/word_cloud

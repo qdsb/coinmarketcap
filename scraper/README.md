@@ -15,3 +15,6 @@ You need to install following packages to run this notebook:
   pip install selenium pandas 
 ```
     
+## 🔗 Useful Links
+- https://selenium-python.readthedocs.io/index.html
+- https://pandas.pydata.org/docs/
