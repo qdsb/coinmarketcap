@@ -1,6 +1,6 @@
 # Statistics Analysis Section
 
-Analyses of the datasets from coinmarketcap.
+Analysis of the datasets from coinmarketcap.
 
 ## Environment Variables
 
