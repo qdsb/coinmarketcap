@@ -2,7 +2,7 @@
 
 A SQL database created based on datasets from coinmarketcap.
 
-# Database Diagram
+## Database Diagram
 ![alt text](https://github.com/qdsb/coinmarketcap_project/blob/database/database/diagram.PNG?raw=true)
 
 ## Environment Variables
