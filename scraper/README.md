@@ -1,6 +1,6 @@
 # Scraper Section
 
-A Scraper designed to scrape web pages from coinmarketcap.com and obtain data.
+A Scraper designed to scrape web pages from coinmarketcap.com and collect data.
 
 ## Installation
 
