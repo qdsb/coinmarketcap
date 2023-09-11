@@ -16,3 +16,20 @@ To run this project, you will need to add the following environment variables to
 `MYSQL_SERVER` = `<your_server>`
 
 `MYSQL_DATABASE` = `<your_database_name>`
+
+
+## Installation
+
+You need to install following packages to run this notebook:
+
+* SQLAlchemy
+* python-dotenv
+* pandas
+* mysql-connector-python
+
+#### You can install them with pip:
+
+```bash
+  pip install SQLAlchemy python-dotenv pandas mysql-connector-python
+```
+    
